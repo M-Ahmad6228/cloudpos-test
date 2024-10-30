@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CloudPOSSdkTest</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_xiaoji"><u>Amount: 1000</u></string>
+    <string name="SwingCard">Please swing your card...</string>
+    <string name="InputPW">Please input a password:</string>
+    <string name="OrderMes">OrderMessage Demo\nSerial number: 1\nCommodity name: Electromagnetic pot\nCommodity picture: </string>
+    <string name="Price">Market value:1100\nPresent price: 1000\nNumber: 1\nDiscounted amount: 0</string>
+    <string name="HowPay">Choice of payment method</string>
+    <string name="RFCard">RFCard</string>
+    <string name="MSR">Magnetic stripe card</string>
+    <string name="ICCard">IC Card</string>
+    <string name="Pay">Payment</string>
+    <string name="SwipeCard">Please swipe your card...</string>
+    <string name="InsertCard">Please Insert your card...</string>
+    <string name="NoPaper">Out of Paper</string>
+    <string name="PaySuc">Results of payment: success</string>
+    <string name="Print">Print</string>
+    <string name="Back">Back</string>
+</resources>
